@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td><a href="#">1%</a></td>
+        <td>Status:</td> <td><a href="#">13%</a></td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -19,8 +19,8 @@
       <tr>
         <td>Orientadores:</td>
         <td><ul>
-        		<li><a href="#">A definir</a></li>
-        		<li><a href="#">A definir</a></li>
+        		<li><a href="https://www.linkedin.com/in/diogomainardes/">Diogo M. Mainardes</a></li>
+        		<!-- <li><a href="#">A definir</a></li> -->
         	</ul>
       </tr>
       <tr>
@@ -73,17 +73,17 @@
         <td>Nível</td>
     </tr>
     <tr>
-        <td><a href="#">Primeiros passos com HTML</a></td>
+        <td><a href="https://github.com/Guilherme-Espinosa/FormacaoHTML.DIO/tree/main/trilha1">Primeiros passos com HTML</a></td>
         <td>5</td>
         <td>Básico</td>
     </tr>
     <tr>
-        <td><a href="#">HTML I - Conceitos básicos</a></td>
+        <td><a href="https://github.com/Guilherme-Espinosa/FormacaoHTML.DIO/tree/main/trilha2">HTML I - Conceitos básicos</a></td>
         <td>6</td>
         <td>Básico</td>
     </tr>
     <tr>
-        <td>	<a href="#">HTML II - Ampliando o conhecimento</a></td>
+        <td>	<a href="https://github.com/Guilherme-Espinosa/FormacaoHTML.DIO/tree/main/trilha3">HTML II - Ampliando o conhecimento</a></td>
         <td>5</td>
         <td>Intermediário</td>
     </tr>
