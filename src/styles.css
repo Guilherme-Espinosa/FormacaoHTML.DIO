@@ -1,0 +1,60 @@
+/* Cabeçalho */
+header {
+    text-align: center;
+}
+
+header .menuSuperior {
+    background-color: black;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+header .menuSuperior li {
+    padding: 5px;
+    border-radius: 5%;
+    background-color: aqua;
+}
+
+header .titulo_e_subtitulo {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;    
+}
+
+body .tabelas {
+    display: flex;
+    justify-content: space-between;
+}
+
+body .status {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    min-width: 50%;
+    max-width: 50%;
+}
+
+body .modulos {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    min-width: 50%;
+    max-width: 50%;
+}
+
+/* 
+article {
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+
+
