@@ -49,12 +49,34 @@ body .modulos {
     max-width: 50%;
 }
 
-/* 
-article {
-    max-width: 900px;
+.content {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+
+aside {
+    border: 2px solid black;
+    max-width: 20vw;
+    margin-top: 10vw;
+    background-color: black;
+}
+
+aside img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+aside .aboutMe {
+    text-align: justify;
+}
+
+article {
+    max-width: 70vw;
     justify-content: center;
-} */
+    padding: 15px;
+    padding-right: 20;
+}
 
 

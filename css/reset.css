@@ -8,3 +8,22 @@
 hr {
     color: black;
 }
+
+.titulo {
+    text-align: center;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: justify;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    text-decoration: none;
+}
