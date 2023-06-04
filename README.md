@@ -11,7 +11,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td><a href="#">19%</a></td>
+        <td>Status:</td> <td><a href="#">25%</a></td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -26,16 +26,11 @@
       <tr>
         <td>Plataforma de ensino:</td> <td><a href="https://www.dio.me/sign-up?ref=KCR05AMJI8">Digital Innovation One (DIO)</a></td>
       </tr>
-<!--       <tr>
+      <tr>
         <td>Diretórios de referência:</td>
         <td>
-        		<a href="https://github.com/digitalinnovationone/javascript-developer-m1">Diretório 01</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main">Diretório 02</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-blog">Diretório 03</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-playground/tree/main/C9%20-%20Rotas/rotas">Diretório 04</a>
-        		<a href="https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone">Diretório 05</a>
-        </td>
-      </tr> -->
+        		<a href="https://github.com/digitalinnovationone/trilha-html-modulo-1">Diretório 01</a>
+      </tr>
 <!--       <tr>
         <td>Projetos (diretórios)</td> 
         		<td><ol>
@@ -49,21 +44,16 @@
     </table>
   </div>
   
-<!-- ---
 <article>
 	<h3>Deploy</h3>  
-	<p>Links para visualização online dos projetos desenvolvidos durante o bootcamp. </p>
+	<p>Links para visualização online dos projetos desenvolvidos durante a Formação. </p>
 	<table class="activities" align="bottom">
 	    <tr>
-	        <td><a href="https://guilherme-espinosa.github.io/pokedex-DIO/">Projeto 1.</a></td>
-	        <td><a href="https://guilherme-espinosa.github.io/curriculo-virtual/">Projeto 2.</a></td>
-	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 3.</a></td>	            <td><a href="https://guilherme-espinosa.github.io/angular-blog-DrManhattan/">Projeto 4.</a></td>
-	        <td><a href="https://github.com/Guilherme-Espinosa/angular-buzzfeed-quizz-clone">Projeto 5.</a></td>
-	        <td><a href="https://guilherme-espinosa.github.io/webComponents/">Projeto 6.</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/FormacaoHTML.DIO/">Projeto 1.</a></td>
 	    </tr>
 	</table>
 </article>  
- -->
+
 ---
   
   <table class="activities" align="bottom">
