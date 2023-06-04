@@ -18,8 +18,14 @@ header .menuSuperior {
 
 header .menuSuperior li {
     padding: 5px;
-    border-radius: 5%;
-    background-color: aqua;
+    border: 3px solid darkorange;
+    border-radius: 5px;
+    background-color: rgb(255, 174, 0);
+}
+
+header .menuSuperior li a {
+    background-color: rgb(255, 174, 0);
+    color: black;
 }
 
 header .titulo_e_subtitulo {
@@ -59,7 +65,7 @@ body .modulos {
 aside {
     border: 2px solid black;
     max-width: 20vw;
-    margin-top: 10vw;
+    margin-top: 5vw;
     background-color: black;
 }
 
@@ -68,15 +74,29 @@ aside img {
     border-radius: 50%;
 }
 
+aside .titulo {
+    background-color: #FFAE00;
+}
+
 aside .aboutMe {
     text-align: justify;
+    padding: 5px;
 }
 
 article {
     max-width: 70vw;
     justify-content: center;
+    margin-top: 5vw;
     padding: 15px;
     padding-right: 20;
 }
 
+article .textoArtigo {
+    padding-top: 10px;
+}
 
+footer {
+    text-align: center;
+    margin-top: 15px;
+    padding: 5px;
+}
