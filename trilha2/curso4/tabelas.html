@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudo de tabelas</title>
+    <style>
+        /* Esse comando cria o Zebrado, com uma linha sim e outra não de cores diferentes */
+        table tr:nth-child(even) {
+            background-color: silver;
+        }
+
+        /* Esse comando dá uma cor específica para a linha que o mouse estiver passando por cima */
+        table tr:hover td {
+            background-color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+
+    <table summary="Aqui deve ficar a descrição para os leitores de tela." border="5" width="700px" cellspacing="5"
+        cellpadding="5" align="center">
+
+        <!-- Os ids servem para identificar as linhas de dados específicas para possíveis alterações via CSS -->
+        <!-- TH é a tag específica e mais adequada para utilizar quanto à acessibilidade e leitores de tela na tabela -->
+
+        <thead>
+            <!-- As tags "thead" servem para agrupar e deicar mais definido o que é que faz parte do cabeçalho da tabela -->
+            <tr>
+                <!-- atributos "colspan" servem para mesclagem de colunas -->
+                <th colspan="3" title="Nome da tabela">Nome da tabela</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <!-- As tags "tbody" servem para agrupar e deicar mais definido o que é que faz parte do corpo da tabela -->
+            <caption>Nome de tabela que aparecerá para os usuários comuns. Leia o códico fonte.</caption>
+            <tr>
+                <!-- atrinutos "rowspan" servem para mesclagem de linhas -->
+                <th title="Coluna 1 - da linha de cabeçalho">Coluna 1</th>
+                <th title="Coluna 2 - da linha de cabeçalho">Coluna 2</th>
+                <th rowspan="8" title="Coluna 3 - da linha de cabeçalho">Coluna 3</th>
+            </tr>
+            
+            <tr id="1">
+                <td>dados 1</td>
+                <td>dados 2</td>
+            </tr>
+
+            <tr id="2">
+                <td>dados 1</td>
+                <td>dados 2</td>
+            </tr>
+
+            <tr id="3">
+                <td>dados 1</td>
+                <td>dados 2</td>
+            </tr>
+
+            <tr id="4">
+                <td>dados 1</td>
+                <td>dados 2</td>
+            </tr>
+
+            <tr id="5">
+                <td>dados 1</td>
+                <td>dados 2</td>
+            </tr>
+
+            <tr id="6">
+                <td>dados 1</td>
+                <td>dados 2</td>
+            </tr>
+        </tbody>
+
+        <tfoot>
+            <!-- As tags "tfoot" servem para agrupar e deicar mais definido o que é que faz parte do rodapé da tabela -->
+            <tr id="1">
+                <td>rodapé 1</td>
+                <td>rodapé 2</td>
+                <td>rodapé 3</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
