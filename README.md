@@ -2,7 +2,6 @@
 
 <header>  
 <h1 align="center"> Formacao HTML Web Developer - DIO </h1>
-<!-- <h3 align="center"> Angular Developer - by iFood </h3> -->
 </header>
 
 ---
@@ -11,7 +10,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td><a href="#">56%</a></td>
+        <td>Status:</td> <td><a href="#">75%</a></td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -49,7 +48,8 @@
 	<p>Links para visualização online dos projetos desenvolvidos durante a Formação. </p>
 	<table class="activities" align="bottom">
 	    <tr>
-	        <td><a href="https://guilherme-espinosa.github.io/FormacaoHTML.DIO/">Projeto 1.</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/FormacaoHTML.DIO/">Projeto 1</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/formacaoHTML-DIO_desafio_clinicaWebPage/">Projeto 2</a></td>
 	    </tr>
 	</table>
 </article>  
