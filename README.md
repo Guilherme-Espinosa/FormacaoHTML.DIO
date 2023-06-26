@@ -10,7 +10,7 @@
   <div class="status" align="top">
     <table align="space-between">
       <tr>
-        <td>Status:</td> <td><a href="#">75%</a></td>
+        <td>Status:</td> <td><a href="#">100%</a></td>
       </tr>
       <tr>
         <td>Responsável:</td> <td><a href="https://www.linkedin.com/in/guilherme-espinosa/">Guilherme Espinosa</a></td>
@@ -50,6 +50,7 @@
 	    <tr>
 	        <td><a href="https://guilherme-espinosa.github.io/FormacaoHTML.DIO/">Projeto 1</a></td>
 	        <td><a href="https://guilherme-espinosa.github.io/formacaoHTML-DIO_desafio_clinicaWebPage/">Projeto 2</a></td>
+	        <td><a href="https://guilherme-espinosa.github.io/formacaoHTML-DIO_desafio_WikipediaModerno/">Projeto 3</a></td>
 	    </tr>
 	</table>
 </article>  
